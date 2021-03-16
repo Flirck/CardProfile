@@ -16,4 +16,4 @@ Este projeto tem intuito de aplicar conhecimentos adiquiridos em estudos sobre *
 
 ## 👨‍🎓 Fontes & Inspirações
 
-A motivação por trás deste projeto é finalizar o primeiro desafio do FrontEnd Mentors, além de finaliza-lo tomei liberdade de criar o meu próprio card: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ
+A motivação por trás deste projeto é finalizar o primeiro desafio do FrontEnd Mentors, além de finaliza-lo tomei liberdade de criar o meu próprio card: https://www.frontendmentor.io/solutions/i-used-css-and-html-animations-flexbox-and-flaction-icons-7HuPHq9hr
