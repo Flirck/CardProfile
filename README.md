@@ -10,7 +10,7 @@
 
 ## 📔 Sobre
 
-Este projeto tem intuito de aplicar conhecimentos adiquiridos em estudos sobre **CSS & HTML**, abordando animações, design, responsividade, posicionamento e respiração de elementos com flex-box.
+Este projeto tem intuito de aplicar conhecimentos adquiridos em estudos sobre **CSS & HTML**, abordando animações, design, responsividade, posicionamento e respiração de elementos com flex-box.
 
 ----
 
